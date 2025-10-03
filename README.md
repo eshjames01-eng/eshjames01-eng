@@ -1,32 +1,49 @@
-# 👋 Hi, I'm Esh James
+# 👋 Hi, I'm Esh James  
 
-🚀 **Senior DevOps Engineer & Cloud Architect**  
-💻 Passionate about building scalable, secure, and reliable cloud-native infrastructures.  
-⚙️ Experienced in automation, CI/CD, container orchestration, cloud migrations, and system reliability.  
+🚀 **Senior DevOps Engineer | Cloud Architect | Site Reliability Engineer**  
+🌎 Based in Chicago, IL | 📧 eshjames01@gmail.com | 📞 +1 (512) 264-5258  
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔹 I design and implement **cloud architectures** with a focus on scalability and security.  
-- 🔹 I work extensively with **AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins, and GitHub Actions**.  
-- 🔹 My expertise spans **infrastructure as code (IaC)**, **observability (Prometheus, Grafana, ELK)**, and **site reliability engineering (SRE)** practices.  
-- 🔹 I collaborate with cross-functional teams to **optimize CI/CD pipelines** and **reduce deployment friction**.  
-- 🔹 I don’t usually create many public repositories here — as you know, **DevOps engineers often use GitHub more for automation, integration, and CI/CD pipelines** rather than hosting application code.  
+Dynamic and results-oriented **DevOps Engineer, Cloud Architect, and SRE** with 8+ years of experience designing, automating, and managing scalable infrastructures.  
+I specialize in **cloud platforms, automation, CI/CD, and system reliability**, ensuring cost-efficient, secure, and highly available solutions.  
+
+💡 As a DevOps engineer, I don’t usually create many public repositories here — most of my GitHub work is around **automation, pipelines, and infrastructure management** rather than building open-source apps.  
 
 ---
 
-## 🔧 Tools & Technologies
-- ☁️ **Cloud:** AWS | Azure | GCP  
-- 📦 **Containers:** Docker | Kubernetes | Helm  
-- 🛠️ **Automation & IaC:** Terraform | Ansible | Packer  
-- 🔄 **CI/CD:** Jenkins | GitHub Actions | GitLab CI | ArgoCD  
-- 📊 **Monitoring & Logging:** Prometheus | Grafana | ELK Stack | CloudWatch  
-- 💻 **Scripting & Languages:** Bash | Python | Go (basic)  
+## 💻 DevOps Tech Stack
+
+### ☁️ Cloud Platforms
+- **AWS** (EKS, EC2, S3, Lambda, RDS, CloudFormation)  
+- **Azure** (AKS, App Services, VMs)  
+- **GCP** (GKE, Compute Engine)  
+
+### ⚙️ DevOps & Automation
+- **CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions  
+- **IaC:** Terraform, Ansible, CloudFormation, Packer  
+- **Scripting:** Bash, Python, PowerShell, Groovy, YAML/JSON  
+
+### 📦 Containers & Orchestration
+- Docker, Kubernetes (EKS, AKS, GKE), Helm, OpenShift  
+
+### 📊 Monitoring & Observability
+- Prometheus, Grafana, ELK Stack, CloudWatch, Datadog  
+
+### 🔐 Security & Compliance
+- IAM, Secrets Management, DevSecOps (integrated security scans), CIS Benchmarks, GuardDuty  
+
+### 🌐 Networking & Reliability
+- Load Balancing, Auto-Scaling, High Availability, Disaster Recovery  
+
+### 🤝 Collaboration & Tools
+- Git, Bitbucket, Jira, Confluence, Agile/Scrum  
 
 ---
 
-## 📫 Connect with Me
-- ✉️ Email: eshjames01@gmail.com  
+## 📫 Let’s Connect
+- ✉️ Email: **eshjames01@gmail.com**  
 
 ---
-✨ _“Automation isn’t just about speed, it’s about reliability and focus — leaving humans to solve real problems.”_
+✨ _“Automation isn’t just speed — it’s about reliability, scalability, and empowering teams to innovate.”_
